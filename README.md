@@ -173,8 +173,6 @@ The application will cancel all loops and exit cleanly.
 ## License
 
 Use it. Break it. Improve it.
-Just don’t blame it when your ISP gets exposed.
 
 ---
 
-If you ever extend this with CSV export, Prometheus metrics, or a web dashboard, you’ll officially cross from “diagnosing issues” into “building observability infrastructure because trust issues.”
